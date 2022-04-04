@@ -153,9 +153,9 @@
 
 1. [Filtering and Ordering](https://github.com/learn-co-students/dsc-filtering-and-ordering-onl01-dtsc-ft-012120)
 2. [Filtering and Ordering - Lab](https://github.com/learn-co-students/dsc-filtering-and-ordering-lab-onl01-dtsc-ft-012120)
-3. []()
-4. []()
-5. []()
+3. [Using SQL with Pandas](https://github.com/learn-co-students/dsc-using-sql-with-pandas-onl01-dtsc-ft-012120)
+4. [SQL Interview Questions - Quiz](https://github.com/learn-co-students/dsc-sql-interview-questions-quiz-onl01-dtsc-ft-012120)
+5. [SQL Interview Questions - Lab](https://github.com/learn-co-students/dsc-sql-interview-questions-lab-onl01-dtsc-ft-012120)
 6. []()
 7. []()
 8. []()
