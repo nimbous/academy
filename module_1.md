@@ -105,15 +105,15 @@
 
 #### Section 05: Data cleaning in Pandas
 
-1. []()
-2. []()
-3. []()
-4. []()
-5. []()
-6. []()
-7. []()
-8. []()
-9. []()
+1. [Lambda Functions](https://github.com/learn-co-students/dsc-lambda-functions-onl01-dtsc-ft-012120)
+2. [Lambda Functions - Lab](https://github.com/learn-co-students/dsc-lambda-functions-lab-onl01-dtsc-ft-012120)
+3. [Pivot Tables With Pandas](https://github.com/learn-co-students/dsc-pivot-tables-pandas-onl01-dtsc-ft-012120)
+4. [Combining DataFrames With Pandas - Lab](https://github.com/learn-co-students/dsc-combining-dataframes-pandas-lab-onl01-dtsc-ft-012120)
+5. [More on Missing Data](https://github.com/learn-co-students/dsc-more-on-missing-data-onl01-dtsc-ft-012120)
+6. [Pivot Tables with Pandas - Lab](https://github.com/learn-co-students/dsc-pivot-tables-pandas-lab-onl01-dtsc-ft-012120)
+7. [Dealing with Missing Data - Lab](https://github.com/learn-co-students/dsc-dealing-missing-data-lab-onl01-dtsc-ft-012120)
+8. [Data Cleaning in Pandas - Recap](https://github.com/learn-co-students/dsc-summary-data-cleaning-pandas-onl01-dtsc-ft-012120)
+9. [Project - Data Cleaning](https://github.com/learn-co-students/dsc-data-cleaning-project-onl01-dtsc-ft-012120)
 10. []()
 11. []()
 12. []()
@@ -128,9 +128,9 @@
 
 #### Section 06: Data visualisation
 
-1. []()
-2. []()
-3. []()
+1. [Customizing Visualizations with Matplotlib](https://github.com/learn-co-students/dsc-more-practice-with-matplotlib-onl01-dtsc-ft-012120)
+2. [Subplots and Enumeration - Lab](https://github.com/learn-co-students/dsc-subplots-and-enumeration-lab-onl01-dtsc-ft-012120)
+3. [Seaborn - Lab](https://github.com/learn-co-students/dsc-seaborn-lab-onl01-dtsc-ft-012120)
 4. []()
 5. []()
 6. []()
@@ -151,8 +151,8 @@
 
 #### Section 07: SQL and relational databases
 
-1. []()
-2. []()
+1. [Filtering and Ordering](https://github.com/learn-co-students/dsc-filtering-and-ordering-onl01-dtsc-ft-012120)
+2. [Filtering and Ordering - Lab](https://github.com/learn-co-students/dsc-filtering-and-ordering-lab-onl01-dtsc-ft-012120)
 3. []()
 4. []()
 5. []()
