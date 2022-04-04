@@ -4,49 +4,52 @@
 ## Module 2
 
 -Module 2 Includes:
--Combinatorics
--Probability Theory
--Statistical Distributions
--Bayes Theorem
--Sampling Methods
--Hypothesis Testing
--A/B Testing
--Linear Regression
--Model Evaluation
+-[Combinatorics]
+-[Probability Theory]
+-[Statistical Distributions]
+-[Bayes Theorem]
+-[Sampling Methods]
+-[Hypothesis Testing]
+-[A/B Testing]
+-[Linear Regression]
+-[Model Evaluation]
 
 
 #### Section 00: Combinatorics and Probability
 
 1. [Combinatorics and Probability - Introduction](https://github.com/learn-co-students/dsc-probability-section-intro-onl01-dtsc-ft-012120)
-2. []()
-3. [Permutations and Factorials - Lab](https://github.com/learn-co-students/dsc-permutations-and-factorials-lab-v2-1-onl01-dtsc-ft-012120)
-4. []()
-5. [Conditional Probability - Lab](https://github.com/learn-co-students/dsc-conditional-probability-lab-onl01-dtsc-ft-012120)
-6. []()
-7. [Combinations - Lab](https://github.com/learn-co-students/dsc-combinations-lab-onl01-dtsc-ft-012120)
-8. []()
-9. [Partitioning and Law of Total Probability - Lab](https://github.com/learn-co-students/dsc-law-of-total-probability-lab-onl01-dtsc-ft-012120)
-10. []()
-11. [The Probability Density Function - Lab](https://github.com/learn-co-students/probability-density-functions-lab-onl01-dtsc-ft-012120)
-12. [Bernoulli and Binomial Distribution](https://github.com/learn-co-students/dsc-bernoulli-and-binomial-distribution-onl01-dtsc-ft-012120)
-13. [Bernoulli and Binomial Distribution - Lab](https://github.com/learn-co-students/dsc-bernoulli-and-binomial-distribution-lab-onl01-dtsc-ft-012120)
-14. []()
-15. [The Cumulative Distribution Function - Lab](https://github.com/learn-co-students/dsc-cumulative-distribution-function-lab-onl01-dtsc-ft-012120)
-16. [The Standard Normal Distribution](https://github.com/learn-co-students/dsc-standard-normal-distribution-onl01-dtsc-ft-012120)
-17. [The Standard Normal Distribution - Lab](https://github.com/learn-co-students/dsc-standard-normal-distribution-lab-onl01-dtsc-ft-012120)
-18. [Statistical Testing with z-score and p-value](https://github.com/learn-co-students/dsc-z-score-p-value-onl01-dtsc-ft-012120)
-19. []()
-20. []()
-
-#### Section 01: 
-
-1. []()
-2. []()
+2. [What is Probability?](https://github.com/learn-co-students/dsc-probability-introduction-onl01-dtsc-ft-012120)
 3. []()
-4. []()
+4. [Permutations and Factorials - Lab](https://github.com/learn-co-students/dsc-permutations-and-factorials-lab-v2-1-onl01-dtsc-ft-012120)
 5. []()
-6. []()
+6. [Conditional Probability - Lab](https://github.com/learn-co-students/dsc-conditional-probability-lab-onl01-dtsc-ft-012120)
 7. []()
+8. [Combinations - Lab](https://github.com/learn-co-students/dsc-combinations-lab-onl01-dtsc-ft-012120)
+9. [The Probability Mass Function - Lab](https://github.com/learn-co-students/dsc-probability-mass-function-lab-onl01-dtsc-ft-012120)
+10. [Partitioning and Law of Total Probability - Lab](https://github.com/learn-co-students/dsc-law-of-total-probability-lab-onl01-dtsc-ft-012120)
+11. [Simulations with Conditional and Total Probability - Lab](https://github.com/learn-co-students/dsc-probability-simulations-lab-onl01-dtsc-ft-012120)
+12. [The Probability Density Function - Lab](https://github.com/learn-co-students/probability-density-functions-lab-onl01-dtsc-ft-012120)
+13. []()
+14. [Bernoulli and Binomial Distribution](https://github.com/learn-co-students/dsc-bernoulli-and-binomial-distribution-onl01-dtsc-ft-012120)
+15. [Bernoulli and Binomial Distribution - Lab](https://github.com/learn-co-students/dsc-bernoulli-and-binomial-distribution-lab-onl01-dtsc-ft-012120)
+16. []()
+17. [The Cumulative Distribution Function - Lab](https://github.com/learn-co-students/dsc-cumulative-distribution-function-lab-onl01-dtsc-ft-012120)
+18. [The Normal Distribution - Lab](https://github.com/learn-co-students/dsc-normal-distribution-lab-onl01-dtsc-ft-012120)
+19. [The Standard Normal Distribution](https://github.com/learn-co-students/dsc-standard-normal-distribution-onl01-dtsc-ft-012120)
+20. [The Standard Normal Distribution - Lab](https://github.com/learn-co-students/dsc-standard-normal-distribution-lab-onl01-dtsc-ft-012120)
+21. [Statistical Testing with z-score and p-value](https://github.com/learn-co-students/dsc-z-score-p-value-onl01-dtsc-ft-012120)
+22. [One-Sample z-Test](https://github.com/learn-co-students/dsc-one-sample-z-test-onl01-dtsc-ft-012120)
+23. [One-Sample z-test - Lab](https://github.com/learn-co-students/dsc-one-sample-z-test-lab-onl01-dtsc-ft-012120)
+
+#### Section 01: Central Limit Theorem and Confidence Intervals
+
+1. [Central Limit Theorem and Confidence Intervals - Introduction](https://github.com/learn-co-students/dsc-inferential-statistics-section-intro-onl01-dtsc-ft-012120)
+2. []()
+3. [Skewness and Kurtosis - Lab](https://github.com/learn-co-students/dsc-skewness-and-kurtosis-lab-onl01-dtsc-ft-012120)
+4. []()
+5. [Sampling Statistics - Lab](https://github.com/learn-co-students/dsc-sampling-statistics-lab-onl01-dtsc-ft-012120)
+6. []()
+7. [Central Limit Theorem - Lab](https://github.com/learn-co-students/dsc-central-limit-theorem-lab-onl01-dtsc-ft-012120)
 8. []()
 9. []()
 10. []()
