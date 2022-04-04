@@ -3,7 +3,17 @@
 
 ## Module 2
 
-### xxx
+-Module 2 Includes:
+-Combinatorics
+-Probability Theory
+-Statistical Distributions
+-Bayes Theorem
+-Sampling Methods
+-Hypothesis Testing
+-A/B Testing
+-Linear Regression
+-Model Evaluation
+
 
 #### Section 00: 
 
