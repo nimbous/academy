@@ -213,7 +213,6 @@
 6. [Web Scraping In Practice](https://github.com/learn-co-students/dsc-web-scraping-in-practice-onl01-dtsc-ft-012120)
 7. [Web Scraping - Lab](https://github.com/learn-co-students/dsc-web-scraping-lab-onl01-dtsc-ft-012120)
 8. [Scraping Images](https://github.com/learn-co-students/dsc-scraping-images-onl01-dtsc-ft-012120)
-9. [Web Scraping - Lab](https://github.com/learn-co-students/dsc-web-scraping-lab-onl01-dtsc-ft-012120)
 10. [HTML Links](https://github.com/learn-co-students/html-links-lab-onl01-dtsc-ft-012120)
 11. [Researching HTML Elements](https://github.com/learn-co-students/dsc-researching-html-elements-onl01-dtsc-ft-012120)
 12. [My Little Rainbow - Lab](https://github.com/learn-co-curriculum/dsc-my-little-rainbow-lab#making-a-rainbow)
