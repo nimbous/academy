@@ -107,7 +107,7 @@
 
 1. [Data Cleaning in Pandas - Introduction](https://github.com/learn-co-students/dsc-introduction-pandas-etl-onl01-dtsc-ft-012120)
 2. [Lambda Functions](https://github.com/learn-co-students/dsc-lambda-functions-onl01-dtsc-ft-012120)
-3. [Lambda Functions - Lab](https://github.com/learn-co-students/dsc-lambda-functions-lab-onl01-dtsc-ft-012120
+3. [Lambda Functions - Lab](https://github.com/learn-co-students/dsc-lambda-functions-lab-onl01-dtsc-ft-012120)
 5. [Pandas Groupby](https://github.com/learn-co-students/dsc-pandas-groupby-onl01-dtsc-ft-012120)
 6. [Pivot Tables With Pandas](https://github.com/learn-co-students/dsc-pivot-tables-pandas-onl01-dtsc-ft-012120)
 7. [Pivot Tables with Pandas - Lab](https://github.com/learn-co-students/dsc-pivot-tables-pandas-lab-onl01-dtsc-ft-012120)
