@@ -223,6 +223,7 @@
 
 ### Final project
  [Module 1 Final Project](https://github.com/learn-co-students/dsc-mod-1-project-v2-1-onl01-dtsc-ft-012120)
- [Project: Analyzing Macbeth Using Pandas](https://github.com/learn-co-students/dsc-analyzing-macbeth-project-pandas-v2-1-onl01-dtsc-ft-012120)
+ [A Guideline for the Movie Industry](https://github.com/esraguzel/dsc-mod-1-project-v2-1-onl01-dtsc-ft-012120)
+ 
 
 ### Appendix
