@@ -221,5 +221,6 @@
 
 
 ### Final project
+ [Project: Analyzing Macbeth Using Pandas](https://github.com/learn-co-students/dsc-analyzing-macbeth-project-pandas-v2-1-onl01-dtsc-ft-012120)
 
 ### Appendix
