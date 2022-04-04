@@ -202,7 +202,9 @@
 11. [Yelp API - Lab](https://github.com/learn-co-students/dsc-yelp-api-lab-onl01-dtsc-ft-012120)
 13. [Reading API Documentation](https://github.com/learn-co-students/dsc-reading-api-documentation-onl01-dtsc-ft-012120)
 14. [Folium - Codealong](https://github.com/learn-co-students/dsc-folium-codealong-onl01-dtsc-ft-012120)
-16. [JSON and APIs - Recap](https://github.com/learn-co-students/dsc-json-apis-recap-v2-1-onl01-dtsc-ft-012120)
+15. [XML](https://github.com/learn-co-students/dsc-xml-v2-1-onl01-dtsc-ft-012120)
+16. [XML - Lab](https://github.com/learn-co-students/dsc-xml-lab-v2-1-onl01-dtsc-ft-012120)
+17. [JSON and APIs - Recap](https://github.com/learn-co-students/dsc-json-apis-recap-v2-1-onl01-dtsc-ft-012120)
 
 #### Section 10: HTML, CSS
 
@@ -220,6 +222,7 @@
 
 
 ### Final project
+ [Module 1 Final Project](https://github.com/learn-co-students/dsc-mod-1-project-v2-1-onl01-dtsc-ft-012120)
  [Project: Analyzing Macbeth Using Pandas](https://github.com/learn-co-students/dsc-analyzing-macbeth-project-pandas-v2-1-onl01-dtsc-ft-012120)
 
 ### Appendix
