@@ -113,13 +113,12 @@
 7. [Pivot Tables with Pandas - Lab](https://github.com/learn-co-students/dsc-pivot-tables-pandas-lab-onl01-dtsc-ft-012120)
 8. [Combining DataFrames With Pandas](https://github.com/learn-co-students/dsc-combining-dataframes-pandas-onl01-dtsc-ft-012120)
 9. [Combining DataFrames With Pandas - Lab](https://github.com/learn-co-students/dsc-combining-dataframes-pandas-lab-onl01-dtsc-ft-012120)
-10. [More on Missing Data](https://github.com/learn-co-students/dsc-more-on-missing-data-onl01-dtsc-ft-012120)
-11. [More on Missing Data - Lab](https://github.com/learn-co-students/dsc-more-on-missing-data-lab-onl01-dtsc-ft-012120)
-12.[Dealing with Missing Data](https://github.com/learn-co-students/dsc-dealing-missing-data-onl01-dtsc-ft-012120)
-13.[Dealing with Missing Data - Lab](https://github.com/learn-co-students/dsc-dealing-missing-data-lab-onl01-dtsc-ft-012120)
+10. [Dealing with Missing Data](https://github.com/learn-co-students/dsc-dealing-missing-data-onl01-dtsc-ft-012120)
+11. [Dealing with Missing Data - Lab](https://github.com/learn-co-students/dsc-dealing-missing-data-lab-onl01-dtsc-ft-012120)
+12. [More on Missing Data](https://github.com/learn-co-students/dsc-more-on-missing-data-onl01-dtsc-ft-012120)
+13. [More on Missing Data - Lab](https://github.com/learn-co-students/dsc-more-on-missing-data-lab-onl01-dtsc-ft-012120)
 14. [Project - Data Cleaning](https://github.com/learn-co-students/dsc-data-cleaning-project-onl01-dtsc-ft-012120)
-15. [Data Cleaning in Pandas - Recap](https://github.com/learn-co-students/dsc-summary-data-cleaning-pandas-onl01-dtsc-ft-012120)
-16. []()
+16. [Data Cleaning in Pandas - Recap](https://github.com/learn-co-students/dsc-summary-data-cleaning-pandas-onl01-dtsc-ft-012120)
 17. []()
 18. []()
 19. []()
@@ -130,6 +129,7 @@
 24. []()
 25. []()
 26. []()
+27. []()
 
 #### Section 06: Data visualisation
 
