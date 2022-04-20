@@ -119,40 +119,14 @@
 13. [More on Missing Data - Lab](https://github.com/learn-co-students/dsc-more-on-missing-data-lab-onl01-dtsc-ft-012120)
 14. [Project - Data Cleaning](https://github.com/learn-co-students/dsc-data-cleaning-project-onl01-dtsc-ft-012120)
 16. [Data Cleaning in Pandas - Recap](https://github.com/learn-co-students/dsc-summary-data-cleaning-pandas-onl01-dtsc-ft-012120)
-17. []()
-18. []()
-19. []()
-20. []()
-21. []()
-22. []()
-23. []()
-24. []()
-25. []()
-26. []()
-27. []()
+
 
 #### Section 06: Data visualisation
 
 1. [Customizing Visualizations with Matplotlib](https://github.com/learn-co-students/dsc-more-practice-with-matplotlib-onl01-dtsc-ft-012120)
 2. [Subplots and Enumeration - Lab](https://github.com/learn-co-students/dsc-subplots-and-enumeration-lab-onl01-dtsc-ft-012120)
 3. [Seaborn - Lab](https://github.com/learn-co-students/dsc-seaborn-lab-onl01-dtsc-ft-012120)
-4. []()
-5. []()
-6. []()
-7. []()
-8. []()
-9. []()
-10. []()
-11. []()
-12. []()
-13. []()
-14. []()
-15. []()
-16. []()
-17. []()
-18. []()
-19. []()
-20. []()
+
 
 #### Section 07: SQL and relational databases
 
