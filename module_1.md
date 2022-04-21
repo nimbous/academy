@@ -144,7 +144,7 @@
 12. [SQL Subqueries](https://github.com/learn-co-students/dsc-sql-subqueries-onl01-dtsc-ft-012120)
 13. [SQL Subqueries - Lab](https://github.com/learn-co-students/dsc-sql-subqueries-lab-onl01-dtsc-ft-012120)
 14. [Using SQL with Pandas](https://github.com/learn-co-students/dsc-using-sql-with-pandas-onl01-dtsc-ft-012120)
-15. [Using SQL with Pandas - Lab](https://github.com/learn-co-students/dsc-using-sql-with-pandas-lab-onl01-dtsc-ft-012120
+15. [Using SQL with Pandas - Lab](https://github.com/learn-co-students/dsc-using-sql-with-pandas-lab-onl01-dtsc-ft-012120)
 16. [Database Admin 101](https://github.com/learn-co-students/dsc-database-admin-101-onl01-dtsc-ft-012120)
 17. [Database Admin 101 - Lab](https://github.com/learn-co-students/dsc-database-admin-101-lab-onl01-dtsc-ft-012120)
 18. [More Practice With SQL Queries - Lab](https://github.com/learn-co-students/dsc-more-practice-with-sql-queries-lab-onl01-dtsc-ft-012120)
